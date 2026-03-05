@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Kenan 👋
 
-<!--
-**KenanPC/KenanPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Manager | Builder | Strategist**
 
-Here are some ideas to get you started:
+I am an AI-forward Product Manager based in the DC area with a background in writing code. I specialize in taking complex regulatory, financial, and user-experience challenges and translating them into scalable products. I bridge the gap between business strategy and technical execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Building & Managing
+
+* **Professional Projects:** Evinova's Unify Study Hub App that enables real-time data collection from paired medical devices.
+* **Personal Projects:** OinkOinkGames.com
+
+### 🛠️ My Toolbox
+
+* **Product & Strategy:** Agile/Scrum, User Story Mapping, Go-to-Market Strategy, Competitor Analysis, Regulatory Compliance (FDA).
+* **Technical Stack:** JavaScript, HTML, CSS
+* **Tools:** Jira, Figma, Miro, Gemini
+
+### 📫 Let's Connect
+
+* **LinkedIn:** https://www.linkedin.com/in/kenan-courtney/
