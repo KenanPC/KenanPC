@@ -11,6 +11,7 @@ I am an AI-native Product Director with a background in writing code. I speciali
 
 ### 🛠️ My Toolbox
 
+* **AI:** Anthropic's Claude, OpenAI's Codex, Google's AI Studio
 * **Product & Strategy:** Agile/Scrum, User Story Mapping, Go-to-Market Strategy, Competitor Analysis, Regulatory Compliance (FDA).
 * **Technical Stack:** JavaScript, HTML, CSS
 * **Tools:** Jira, Figma, Miro, Gemini
