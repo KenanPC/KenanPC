@@ -16,7 +16,3 @@ I am an AI-native Product Director with a background in writing code. I speciali
 * **Product & Strategy:** Agile/Scrum, User Story Mapping, Go-to-Market Strategy, Competitor Analysis, Regulatory Compliance (FDA).
 * **Technical Stack:** JavaScript, HTML, CSS
 * **Tools:** Jira, Confluence, Figma, Miro
-
-### 📫 Let's Connect
-
-* **LinkedIn:** https://www.linkedin.com/in/kenan-courtney/
