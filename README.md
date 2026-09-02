@@ -3,7 +3,7 @@
 
 **Product Manager | Builder | Strategist**  
 
-I am an AI-native Product Director with a background in writing code. I specialize in taking complex challenges and translating them into scalable products. I bridge the gap between business strategy and technical execution.
+I am an AI-native Product Manager with a background in writing code. I specialize in taking complex challenges and translating them into scalable products. I bridge the gap between business strategy and technical execution.
 
 ### 🚀 What I'm Building & Managing
 
