@@ -1,6 +1,5 @@
 # Hi, I'm Kenan Courtney
 
-[kenancourtney.com](https://kenancourtney.com) · [LinkedIn](https://www.linkedin.com/in/kenan-courtney/)
 
 **AI-native Product Manager · Builder · Strategy-to-execution operator**
 
