@@ -1,4 +1,4 @@
-# Hi, I'm Kenan Courtney
+# Hi, I'm Kenan
 
 
 **AI-native Product Manager · Builder · Strategy-to-execution operator**
