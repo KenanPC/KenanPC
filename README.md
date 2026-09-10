@@ -45,13 +45,13 @@ A personal game project and experimentation space for consumer-facing product id
 
 ## Toolbox
 
-**Product and strategy:** roadmap definition, discovery, user story mapping, Agile/Scrum, go-to-market thinking, competitive analysis, stakeholder alignment, regulatory considerations.
+**Product and strategy:** roadmap definition, discovery, user story mapping, Agile/Scrum, go-to-market thinking, competitive analysis, stakeholder alignment, regulatory considerations
 
-**AI and prototyping:** Codex, Claude, Claude Code, Antigravity, Google AI Studio, Figma Make, prompt-driven prototyping, AI-assisted product documentation.
+**AI Tools:** Codex, Claude, Claude Code, Antigravity, Google AI Studio, Figma Make
 
-**Technical:** JavaScript, TypeScript, Kotlin, HTML, CSS, GitHub Actions, Android concepts, API/product architecture literacy.
+**Technical:** JavaScript, TypeScript, Kotlin, HTML, CSS, GitHub Actions, Android concepts, API/product architecture literacy
 
-**Collaboration:** Jira, Confluence, Figma, Miro, cross-functional product delivery.
+**Collaboration:** Jira, Confluence, Figma, Miro, cross-functional product delivery
 
 ## Current Focus
 
