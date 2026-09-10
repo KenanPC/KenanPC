@@ -27,6 +27,12 @@ A developer companion framework for mobile apps. Its first implementation, **Com
 
 My personal website and portfolio. I use it as a living surface for presenting work, experiments, and product thinking.
 
+### [Icon Tile Playground](https://kenancourtney.com/icon-tile-playground/)
+
+A browser-based workshop for composing tiled SVG backgrounds from Bootstrap Icons and uploaded SVGs, with live pattern controls and export options.
+
+**Product lens:** rapid visual prototyping, playful creative tooling, and making portfolio assets reusable instead of one-off.
+
 ### [PokeVault](https://github.com/KenanPC/PokeVault)
 
 A card-selling platform prototype.
