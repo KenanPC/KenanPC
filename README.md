@@ -47,7 +47,7 @@ A personal game project and experimentation space for consumer-facing product id
 
 **Product and strategy:** roadmap definition, discovery, user story mapping, Agile/Scrum, go-to-market thinking, competitive analysis, stakeholder alignment, regulatory considerations.
 
-**AI and prototyping:** Codex, Claude, Claude Code, Google AI Studio, Figma Make, prompt-driven prototyping, AI-assisted product documentation.
+**AI and prototyping:** Codex, Claude, Claude Code, Antigravity, Google AI Studio, Figma Make, prompt-driven prototyping, AI-assisted product documentation.
 
 **Technical:** JavaScript, TypeScript, Kotlin, HTML, CSS, GitHub Actions, Android concepts, API/product architecture literacy.
 
