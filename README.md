@@ -64,3 +64,7 @@ A personal game project and experimentation space for consumer-facing product id
 I am strongest in the space between strategy and shipping: clarifying the problem, shaping the product, working through tradeoffs with technical teams, and creating enough of the thing that customers, stakeholders, and builders can respond to it.
 
 I care about products that are useful, understandable, and resilient. Good product management, to me, is part customer empathy, part systems thinking, part delivery discipline, and part willingness to get your hands dirty.
+
+## Now
+
+Collecting GitHub achievement badges, one merged PR at a time. 🏅
